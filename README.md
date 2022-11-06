@@ -23,7 +23,6 @@ npm run-script dev
 
 * Website: thomascariot.ddns.net
 * Github: [@GroovyHooked](https://github.com/GroovyHooked)
-* LinkedIn: [@Thomas Cariot](https://linkedin.com/in/Thomas Cariot)
 
 ## Show your support
 
